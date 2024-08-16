@@ -1,0 +1,802 @@
+[
+  {
+    "location": "CONUS",
+    "extent": [-122.0, -68.5, 24.5, 49.0],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -92.75,
+    "central_latitude": 36.75,
+    "standard_parallel": [24.5, 49.0]
+  },
+  {
+    "location": "Alabama",
+    "extent": [-88.473, -80.403, 30.223, 35.003],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -84.438,
+    "central_latitude": 32.613,
+    "standard_parallel": [30.223, 35.003]
+  },
+  {
+    "location": "Alaska",
+    "extent": [-179.148, -129.998, 51.215, 71.538],
+    "satellite": 18,
+    "domain": "F",
+    "projection": "TransverseMercator",
+    "central_longitude": -154.57299999999998,
+    "central_latitude": 61.3765,
+    "standard_parallel": [51.215, 71.538]
+  },
+  {
+    "location": "Arizona",
+    "extent": [-114.818, -109.045, 31.332, 37.004],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -111.9315,
+    "central_latitude": 34.168,
+    "standard_parallel": [31.332, 37.004]
+  },
+  {
+    "location": "Arkansas",
+    "extent": [-94.617, -89.098, 33.004, 36.5],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -91.8575,
+    "central_latitude": 34.751999999999995,
+    "standard_parallel": [33.004, 36.5]
+  },
+  {
+    "location": "California",
+    "extent": [-124.848, -113.591, 32.528, 42.009],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "LambertConformal",
+    "central_longitude": -119.2195,
+    "central_latitude": 37.2685,
+    "standard_parallel": [32.528, 42.009]
+  },
+  {
+    "location": "Colorado",
+    "extent": [-109.045, -102.041, 36.993, 41.003],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -105.543,
+    "central_latitude": 38.998000000000005,
+    "standard_parallel": [36.993, 41.003]
+  },
+  {
+    "location": "Connecticut",
+    "extent": [-73.727, -71.131, 40.991, 42.05],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -72.429,
+    "central_latitude": 41.5205,
+    "standard_parallel": [40.991, 42.05]
+  },
+  {
+    "location": "Delaware",
+    "extent": [-75.046, -74.71, 38.451, 39.839],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -74.878,
+    "central_latitude": 39.144999999999996,
+    "standard_parallel": [38.451, 39.839]
+  },
+  {
+    "location": "Florida",
+    "extent": [-87.634, -80.031, 24.396, 31.0],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -83.83250000000001,
+    "central_latitude": 27.698,
+    "standard_parallel": [24.396, 31.0]
+  },
+  {
+    "location": "Georgia",
+    "extent": [-85.606, -80.839, 30.357, 35.003],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -83.2225,
+    "central_latitude": 32.68,
+    "standard_parallel": [30.357, 35.003]
+  },
+  {
+    "location": "Hawaii",
+    "extent": [-155.986, -154.806, 18.55, 20.57],
+    "satellite": 18,
+    "domain": "F",
+    "projection": "TransverseMercator",
+    "central_longitude": -155.39600000000002,
+    "central_latitude": 19.560000000000002,
+    "standard_parallel": [18.55, 20.57]
+  },
+  {
+    "location": "Idaho",
+    "extent": [-117.243, -111.043, 41.991, 49.001],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -114.143,
+    "central_latitude": 45.495999999999995,
+    "standard_parallel": [41.991, 49.001]
+  },
+  {
+    "location": "Illinois",
+    "extent": [-91.513, -87.016, 36.97, 42.508],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -89.2645,
+    "central_latitude": 39.739000000000004,
+    "standard_parallel": [36.97, 42.508]
+  },
+  {
+    "location": "Indiana",
+    "extent": [-88.096, -84.787, 36.969, 41.76],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -86.4415,
+    "central_latitude": 39.3645,
+    "standard_parallel": [36.969, 41.76]
+  },
+  {
+    "location": "Iowa",
+    "extent": [-96.637, -90.14, 40.376, 43.501],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -93.3885,
+    "central_latitude": 41.9385,
+    "standard_parallel": [40.376, 43.501]
+  },
+  {
+    "location": "Kansas",
+    "extent": [-102.041, -94.588, 36.993, 40.003],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -98.3145,
+    "central_latitude": 38.498000000000005,
+    "standard_parallel": [36.993, 40.003]
+  },
+  {
+    "location": "Kentucky",
+    "extent": [-89.573, -81.965, 36.497, 39.148],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -85.769,
+    "central_latitude": 37.822500000000005,
+    "standard_parallel": [36.497, 39.148]
+  },
+  {
+    "location": "Louisiana",
+    "extent": [-94.043, -88.818, 28.923, 33.019],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -91.4305,
+    "central_latitude": 30.970999999999997,
+    "standard_parallel": [28.923, 33.019]
+  },
+  {
+    "location": "Maine",
+    "extent": [-71.082, -66.934, 43.074, 47.459],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -69.008,
+    "central_latitude": 45.2665,
+    "standard_parallel": [43.074, 47.459]
+  },
+  {
+    "location": "Maryland",
+    "extent": [-79.487, -75.048, 37.953, 39.728],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -77.2675,
+    "central_latitude": 38.840500000000006,
+    "standard_parallel": [37.953, 39.728]
+  },
+  {
+    "location": "Massachusetts",
+    "extent": [-73.508, -69.928, 41.191, 42.88],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -71.71799999999999,
+    "central_latitude": 42.0355,
+    "standard_parallel": [41.191, 42.88]
+  },
+  {
+    "location": "Michigan",
+    "extent": [-90.418, -82.169, 41.696, 48.306],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -86.2935,
+    "central_latitude": 45.001,
+    "standard_parallel": [41.696, 48.306]
+  },
+  {
+    "location": "Minnesota",
+    "extent": [-97.239, -89.489, 43.501, 49.384],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -93.364,
+    "central_latitude": 46.442499999999995,
+    "standard_parallel": [43.501, 49.384]
+  },
+  {
+    "location": "Mississippi",
+    "extent": [-91.645, -88.097, 30.172, 34.994],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -89.871,
+    "central_latitude": 32.583,
+    "standard_parallel": [30.172, 34.994]
+  },
+  {
+    "location": "Missouri",
+    "extent": [-95.774, -89.099, 36.001, 40.613],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -92.4365,
+    "central_latitude": 38.307,
+    "standard_parallel": [36.001, 40.613]
+  },
+  {
+    "location": "Montana",
+    "extent": [-116.048, -104.039, 44.357, 49.002],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -110.0435,
+    "central_latitude": 46.679500000000004,
+    "standard_parallel": [44.357, 49.002]
+  },
+  {
+    "location": "Nebraska",
+    "extent": [-104.053, -95.306, 40.001, 43.002],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -99.67949999999999,
+    "central_latitude": 41.5015,
+    "standard_parallel": [40.001, 43.002]
+  },
+  {
+    "location": "Nevada",
+    "extent": [-120.005, -114.039, 35.001, 42.002],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -117.02199999999999,
+    "central_latitude": 38.5015,
+    "standard_parallel": [35.001, 42.002]
+  },
+  {
+    "location": "New Hampshire",
+    "extent": [-72.557, -70.545, 42.697, 45.305],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -71.551,
+    "central_latitude": 44.001000000000005,
+    "standard_parallel": [42.697, 45.305]
+  },
+  {
+    "location": "New Jersey",
+    "extent": [-75.563, -73.889, 39.732, 41.357],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -74.726,
+    "central_latitude": 40.5445,
+    "standard_parallel": [39.732, 41.357]
+  },
+  {
+    "location": "New Mexico",
+    "extent": [-109.045, -103.002, 31.332, 37.0],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -106.0235,
+    "central_latitude": 34.166,
+    "standard_parallel": [31.332, 37.0]
+  },
+  {
+    "location": "New York",
+    "extent": [-79.763, -71.856, 40.496, 45.015],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -75.8095,
+    "central_latitude": 42.7555,
+    "standard_parallel": [40.496, 45.015]
+  },
+  {
+    "location": "North Carolina",
+    "extent": [-84.321, -75.461, 33.842, 36.588],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -79.89099999999999,
+    "central_latitude": 35.215,
+    "standard_parallel": [33.842, 36.588]
+  },
+  {
+    "location": "North Dakota",
+    "extent": [-104.049, -96.554, 45.935, 49.0],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -100.3015,
+    "central_latitude": 47.4675,
+    "standard_parallel": [45.935, 49.0]
+  },
+  {
+    "location": "Ohio",
+    "extent": [-84.82, -80.518, 38.403, 41.979],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -82.669,
+    "central_latitude": 40.191,
+    "standard_parallel": [38.403, 41.979]
+  },
+  {
+    "location": "Oklahoma",
+    "extent": [-103.002, -94.431, 33.619, 37.002],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -98.7165,
+    "central_latitude": 35.310500000000005,
+    "standard_parallel": [33.619, 37.002]
+  },
+  {
+    "location": "Oregon",
+    "extent": [-124.566, -116.464, 41.992, 46.293],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -120.515,
+    "central_latitude": 44.1425,
+    "standard_parallel": [41.992, 46.293]
+  },
+  {
+    "location": "Pennsylvania",
+    "extent": [-80.519, -74.689, 39.719, 42.269],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -77.604,
+    "central_latitude": 40.994,
+    "standard_parallel": [39.719, 42.269]
+  },
+  {
+    "location": "Rhode Island",
+    "extent": [-71.861, -71.13, 41.146, 42.019],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -71.49549999999999,
+    "central_latitude": 41.582499999999996,
+    "standard_parallel": [41.146, 42.019]
+  },
+  {
+    "location": "South Carolina",
+    "extent": [-83.353, -78.542, 32.034, 35.215],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -80.94749999999999,
+    "central_latitude": 33.6245,
+    "standard_parallel": [32.034, 35.215]
+  },
+  {
+    "location": "South Dakota",
+    "extent": [-104.057, -96.436, 42.479, 45.945],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -100.2465,
+    "central_latitude": 44.212,
+    "standard_parallel": [42.479, 45.945]
+  },
+  {
+    "location": "Tennessee",
+    "extent": [-90.31, -81.647, 34.982, 36.678],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -85.9785,
+    "central_latitude": 35.83,
+    "standard_parallel": [34.982, 36.678]
+  },
+  {
+    "location": "Texas",
+    "extent": [-106.645, -93.508, 25.837, 36.501],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -100.0765,
+    "central_latitude": 31.168999999999997,
+    "standard_parallel": [25.837, 36.501]
+  },
+  {
+    "location": "Utah",
+    "extent": [-114.053, -109.041, 36.998, 42.001],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -111.547,
+    "central_latitude": 39.4995,
+    "standard_parallel": [36.998, 42.001]
+  },
+  {
+    "location": "Vermont",
+    "extent": [-73.437, -71.464, 42.726, 45.016],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -72.4505,
+    "central_latitude": 43.870999999999995,
+    "standard_parallel": [42.726, 45.016]
+  },
+  {
+    "location": "Virginia",
+    "extent": [-83.675, -75.242, 36.541, 39.466],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -79.4585,
+    "central_latitude": 38.0035,
+    "standard_parallel": [36.541, 39.466]
+  },
+  {
+    "location": "Washington",
+    "extent": [-124.848, -116.917, 45.543, 49.002],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "LambertConformal",
+    "central_longitude": -120.8825,
+    "central_latitude": 47.2725,
+    "standard_parallel": [45.543, 49.002]
+  },
+  {
+    "location": "West Virginia",
+    "extent": [-82.644, -77.719, 37.202, 40.638],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -80.1815,
+    "central_latitude": 38.92,
+    "standard_parallel": [37.202, 40.638]
+  },
+  {
+    "location": "Wisconsin",
+    "extent": [-92.889, -86.249, 42.491, 47.309],
+    "satellite": 16,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -89.56899999999999,
+    "central_latitude": 44.9,
+    "standard_parallel": [42.491, 47.309]
+  },
+  {
+    "location": "Wyoming",
+    "extent": [-111.056, -104.053, 40.994, 45.005],
+    "satellite": 18,
+    "domain": "C",
+    "projection": "TransverseMercator",
+    "central_longitude": -107.55449999999999,
+    "central_latitude": 42.9995,
+    "standard_parallel": [40.994, 45.005]
+  },
+  {
+    "location": "Alberta",
+    "extent": [-120.0, -110.0, 49.0, 60.0],
+    "satellite": 18,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -115.0,
+    "central_latitude": 54.5,
+    "standard_parallel": [49.0, 60.0]
+  },
+  {
+    "location": "British Columbia",
+    "extent": [-139.0, -114.0, 48.3, 60.0],
+    "satellite": 18,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -126.5,
+    "central_latitude": 54.15,
+    "standard_parallel": [48.3, 60.0]
+  },
+  {
+    "location": "Manitoba",
+    "extent": [-102.0, -89.0, 49.0, 60.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -95.5,
+    "central_latitude": 54.5,
+    "standard_parallel": [49.0, 60.0]
+  },
+  {
+    "location": "New Brunswick",
+    "extent": [-69.0, -63.8, 44.6, 48.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -66.4,
+    "central_latitude": 46.3,
+    "standard_parallel": [44.6, 48.0]
+  },
+  {
+    "location": "Newfoundland and Labrador",
+    "extent": [-67.7, -52.6, 46.6, 60.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -60.15,
+    "central_latitude": 53.3,
+    "standard_parallel": [46.6, 60.0]
+  },
+  {
+    "location": "Northwest Territories",
+    "extent": [-136.5, -102.0, 60.0, 72.0],
+    "satellite": 18,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -119.25,
+    "central_latitude": 66.0,
+    "standard_parallel": [60.0, 72.0]
+  },
+  {
+    "location": "Nova Scotia",
+    "extent": [-66.4, -59.8, 43.3, 47.1],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -63.1,
+    "central_latitude": 45.2,
+    "standard_parallel": [43.3, 47.1]
+  },
+  {
+    "location": "Nunavut",
+    "extent": [-120.0, -61.0, 60.0, 83.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -90.5,
+    "central_latitude": 71.5,
+    "standard_parallel": [60.0, 83.0]
+  },
+  {
+    "location": "Ontario",
+    "extent": [-95.2, -74.3, 41.7, 56.9],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -84.75,
+    "central_latitude": 49.3,
+    "standard_parallel": [41.7, 56.9]
+  },
+  {
+    "location": "Prince Edward Island",
+    "extent": [-64.7, -62.6, 45.8, 47.1],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -63.65,
+    "central_latitude": 46.45,
+    "standard_parallel": [45.8, 47.1]
+  },
+  {
+    "location": "Quebec",
+    "extent": [-79.8, -57.1, 45.0, 62.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -68.45,
+    "central_latitude": 53.5,
+    "standard_parallel": [45.0, 62.0]
+  },
+  {
+    "location": "Yukon",
+    "extent": [-141.0, -123.5, 60.0, 69.7],
+    "satellite": 18,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -132.25,
+    "central_latitude": 64.85,
+    "standard_parallel": [60.0, 69.7]
+  },  
+  {
+    "location": "Mexico",
+    "extent": [-118.4, -86.7, 14.5, 32.7],
+    "satellite": 18,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -102.55,
+    "central_latitude": 23.6,
+    "standard_parallel": [14.5, 32.7]
+  },
+  {
+    "location": "Central America",
+    "extent": [-92.0, -77.0, 5.0, 18.0],
+    "satellite": 18,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -84.5,
+    "central_latitude": 11.5,
+    "standard_parallel": [5.0, 18.0]
+  },  
+  {
+    "location": "Eastern Caribbean",
+    "extent": [-65.0, -59.0, 12.0, 19.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -62.0,
+    "central_latitude": 15.5,
+    "standard_parallel": [12.0, 19.0]
+  },
+  {
+    "location": "Western Caribbean",
+    "extent": [-88.0, -75.0, 15.0, 23.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArear",
+    "central_longitude": -81.5,
+    "central_latitude": 19.0,
+    "standard_parallel": [15.0, 23.0]
+  },
+  {
+    "location": "Southern Caribbean",
+    "extent": [-73.0, -59.0, 9.0, 15.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -66.0,
+    "central_latitude": 12.0,
+    "standard_parallel": [9.0, 15.0]
+  },
+  {
+    "location": "Argentina",
+    "extent": [-73.5, -53.6, -55.0, -21.8],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -63.55,
+    "central_latitude": -38.4,
+    "standard_parallel": [-55.0, -21.8]
+  },
+  {
+    "location": "Bolivia",
+    "extent": [-69.6, -57.5, -22.9, -9.6],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -63.55,
+    "central_latitude": -16.25,
+    "standard_parallel": [-22.9, -9.6]
+  },
+  {
+    "location": "Brazil",
+    "extent": [-74.0, -34.8, -33.8, 5.3],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -54.4,
+    "central_latitude": -14.25,
+    "standard_parallel": [-33.8, 5.3]
+  },
+  {
+    "location": "Chile",
+    "extent": [-75.6, -66.4, -56.0, -17.5],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -71.0,
+    "central_latitude": -36.75,
+    "standard_parallel": [-56.0, -17.5]
+  },
+  {
+    "location": "Colombia",
+    "extent": [-79.0, -66.9, -4.2, 13.5],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -73.0,
+    "central_latitude": 4.65,
+    "standard_parallel": [-4.2, 13.5]
+  },
+  {
+    "location": "Ecuador",
+    "extent": [-81.0, -75.2, -5.0, 1.5],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -78.1,
+    "central_latitude": -1.75,
+    "standard_parallel": [-5.0, 1.5]
+  },
+  {
+    "location": "Guyana",
+    "extent": [-61.4, -56.5, 1.2, 8.5],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -58.95,
+    "central_latitude": 4.85,
+    "standard_parallel": [1.2, 8.5]
+  },
+  {
+    "location": "Paraguay",
+    "extent": [-62.7, -54.2, -27.6, -19.3],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -58.45,
+    "central_latitude": -23.45,
+    "standard_parallel": [-27.6, -19.3]
+  },
+  {
+    "location": "Peru",
+    "extent": [-81.3, -68.7, -18.4, 0.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArear",
+    "central_longitude": -75.0,
+    "central_latitude": -9.2,
+    "standard_parallel": [-18.4, 0.0]
+  },
+  {
+    "location": "Suriname",
+    "extent": [-58.1, -53.9, 1.8, 6.0],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -56.0,
+    "central_latitude": 3.9,
+    "standard_parallel": [1.8, 6.0]
+  },
+  {
+    "location": "Uruguay",
+    "extent": [-58.5, -53.0, -35.0, -30.1],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -55.75,
+    "central_latitude": -32.55,
+    "standard_parallel": [-35.0, -30.1]
+  },
+  {
+    "location": "Venezuela",
+    "extent": [-73.6, -59.8, 0.5, 12.2],
+    "satellite": 16,
+    "domain": "F",
+    "projection": "LambertAzimuthalEqualArea",
+    "central_longitude": -66.7,
+    "central_latitude": 6.35,
+    "standard_parallel": [0.5, 12.2]
+  }  
+]

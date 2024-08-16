@@ -1,0 +1,8 @@
+goes2go
+matplotlib
+cartopy
+xarray
+ipywidgets
+moviepy
+dask
+acgc
