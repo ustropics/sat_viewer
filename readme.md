@@ -36,27 +36,33 @@ the `Anaconda Navigator` app. Ensure the proper environment (i.e., `sat_viewer`)
 ![Image of Anaconda Navigator app and dependencies that can be installed.](https://i.imgur.com/U9brEFs.png)
 
 # Usage Guide
-Launch Jupyter Notebook or Jupyter Lab and navigate to the sat_viewer root directory in the program. Open `program.ipynb`
-![Image of Jupyter Notebook app and the root directory of sat_viewer](https://i.imgur.com/4rlQmhB.png)
+Launch Jupyter Notebook or Jupyter Lab and navigate to the sat_viewer root directory in the program.
+Open `program.ipynb`
+![Image of Jupyter Notebook app and the root directory of sat_viewer.](https://i.imgur.com/4rlQmhB.png)
 
 After running the first cell, the display UI should be available to select parameters:
-![Image of Jupyter Notebook running the display module](https://i.imgur.com/AhMP95E.png)
+![Image of Jupyter Notebook running the display module for sat_viewer.](https://i.imgur.com/AhMP95E.png)
 
 After parameters have been set (default parameters are given for CONUS extent), run the second cell 
 that contains `main.handle_data(display)`to initiate the program.
 
+This will create a display output that includes a Play (Animation) widget to sequence the images.
+Videos are saved in an .mp4 format. See *Output Structure* section below on saved directory.
+![Image of output display for sat_viewer.](https://i.imgur.com/y1uZVRF.png)
+
 ## Main Parameters
-![Image of Main Parameters for sat_viewer](https://i.imgur.com/iatL6s7.png)
+![Image of Main Parameters for sat_viewer.](https://i.imgur.com/iatL6s7.png)
 - **RGB Product** - various RGB recipes can be selected
 - **Location** - Preset locations are available for all US states, Canadian providences, Mexico, Caribbean regions, and South American countries
 - **Time Range** - A start and end time/date can be set to retrieve data from GOES-16, GOES-17, and GOES-18 satellite feed through AWS buckets
 
 ## Projection Settings
-![Image of Projection Settings for sat_viewer](https://i.imgur.com/x96wrlZ.png)
+![Image of Projection Settings for sat_viewer.](https://i.imgur.com/x96wrlZ.png)
 - **Projection** - Available projections can be applied through Cartopy library (https://scitools.org.uk/cartopy/docs/v0.15/crs/projections.html)
 - **Satellite** - Available options include GOES-16 (East), GOES-18 (West), and GOES-17 (West-legacy)
 - **Domain** - Available domain options from GOES includes CONUS view, Full Disk, and Mesoscale
-- **Custom Lat/Lon** - Set a custom extent box for the plot (this option will overide the **Location** from the `Main Parameters`)
+- **Custom Lat/Lon** - Set a custom extent box for the plot 
+  - (this option will overide the **Location** from the *Main Parameters*)
 - **Border Color** - Color picker to change border colors for overlays
 - **Border Width** - Set the border width for overlays
 - **Lat/Lon Lines** - True/False to include latitude and longitude lines on plot
@@ -67,7 +73,7 @@ that contains `main.handle_data(display)`to initiate the program.
 - **Lake/River Borders** - True/False to include lake and river outlines
 
 ## Utilities
-![Image of Projection Settings for sat_viewer](https://i.imgur.com/LdjCA4f.png)
+![Image of Utilities for sat_viewer.](https://i.imgur.com/LdjCA4f.png)
 - **Upload JSON** - Upload a .json file with keys and values
 - **Export JSON** - Export a .json file to `output/json/`
 - **Max CPUs** - Set maximum CPUs for parallel processes (currently operational for file downloads)
